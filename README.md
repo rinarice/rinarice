@@ -16,7 +16,7 @@ With **7+ years** in team management, LQA, and customer service, here’s a glim
 
 ### My Education & Skill Set 🧠💪
 
-I’m currently honing my skills as a **Python Developer** at **Mate Academy** in Lisbon, Portugal:
+I’m currently honing my skills as a **Python Developer** at **Mate Academy**:
 - **Python Developer** 
   - **Mate Academy**  
   - [mate.academy/en](https://mate.academy/en)
