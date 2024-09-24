@@ -1,13 +1,13 @@
 # Welcome to My Rice Field of Code! 🌾🙇🏻‍♀️
-Hey there! 👋 I'm diving headfirst into the world of **Python development** 🐍, driven by a passion for problem-solving and a thirst for new career adventures. My journey is all about embracing continuous learning and thriving in dynamic environments.
+Hey there! 👋 I'm diving headfirst into the world of **Python development** 🐍, driven by a passion for problem-solving and a thirst for new career adventures
 
 ### A Little About Me 🌟
 
-With **7+ years** in team management, LQA, and customer service, here’s a glimpse into my professional escapades:
+With **7+ years** in team management, LQA, and customer service, here’s a glimpse into my professional experience:
 
 - **Subject Matter Expert & LQA Specialist**
   - 📱 Mastered the art of testing and reviewing mobile apps
-  - 💡 Provided stellar support to agents, ensuring top-notch quality
+  - 💡 Provided support to agents, ensuring top-notch quality
   - 🏫 Conducted engaging training sessions
 
 - **Team Lead**
@@ -34,4 +34,4 @@ Armed with a background in **humanities education** and fluency in **Ukrainian, 
 
 ### Let’s Connect and Collaborate! 🌐✨
 
-I’m super excited to share my journey, learn together, and collaborate on awesome projects. Welcome to my rice field of code, where we cultivate and grow amazing software! Reach out and let’s create something incredible together! 🍚
+I’m super excited to share my journey, learn together, and collaborate on awesome projects. Reach out and let’s create something incredible together! 🍚
