@@ -1,37 +1,35 @@
 # Welcome to My Rice Field of Code! 🌾🙇🏻‍♀️
-Hey there! 👋 I'm diving headfirst into the world of **Python development** 🐍, driven by a passion for problem-solving and a thirst for new career adventures
 
-### A Little About Me 🌟
+Hey there! 👋 I’m diving into **Python development** 🐍, fueled by a love for problem-solving and new career adventures.
 
-With **7+ years** in team management, LQA, and customer service, here’s a glimpse into my professional experience:
+### A Bit About Me 🌟
 
-- **Subject Matter Expert & LQA Specialist**
-  - 📱 Mastered the art of testing and reviewing mobile apps
-  - 💡 Provided support to agents, ensuring top-notch quality
-  - 🏫 Conducted engaging training sessions
+With **7+ years** in team management, LQA, and customer service, here’s a quick look at my experience:
 
-- **Team Lead**
-  - 🧑‍🤝‍🧑 Led an amazing team of content moderators to success
+- **Subject Matter Expert & LQA Specialist**  
+  - 📱 Tested and reviewed mobile apps  
+  - 💡 Supported agents to maintain top quality  
+  - 🏫 Trained teams
 
+- **Team Lead**  
+  - 🧑‍🤝‍🧑 Led a content moderation team to success
 
-### My Education & Skill Set 🧠💪
+### My Journey 🧠💪
 
-I’m currently honing my skills as a **Python Developer** at **Mate Academy**:
-- **Python Developer** 
-  - **Mate Academy**  
-  - [mate.academy/en](https://mate.academy/en)
+Currently leveling up as a **Python Developer** at **Mate Academy**:  
+- **Mate Academy**: [mate.academy/en](https://mate.academy/en)
 
-Armed with a background in **humanities education** and fluency in **Ukrainian, English, Portuguese, and Russian**, I bring strong communication, coaching, and problem-solving skills to the table, thriving in fast-paced environments.
+I also have a background in **humanities** and speak **Ukrainian, English, Portuguese, and Russian**, with strong communication and problem-solving skills.
 
-### My Tech Toolkit 🛠️
+### Tech Tools 🛠️
 
-- **Languages**: Python 3.7+
-- **Concepts**: OOP, TDD, SOLID
-- **Web Development**: Django ORM, Django Rest Framework, HTML, CSS, JavaScript
-- **Databases**: PostgreSQL, SQLite
-- **Tools**: Git/GitHub, Debugger
-- **Bonus Skills**: Microsoft Excel, Microsoft Office
+- **Languages**: Python 3.7+  
+- **Tech**: OOP, TDD, SOLID  
+- **Web Dev**: Django ORM, DRF, HTML, CSS, JavaScript  
+- **Databases**: PostgreSQL, SQLite  
+- **Tools**: Git/GitHub, Debugger  
+- **Bonus**: Microsoft Office, Excel
 
-### Let’s Connect and Collaborate! 🌐✨
+### Let’s Connect! 🌐✨
 
-I’m super excited to share my journey, learn together, and collaborate on awesome projects. Reach out and let’s create something incredible together! 🍚
+Excited to share my journey and collaborate on awesome projects! Let’s create something amazing together! 🍚
