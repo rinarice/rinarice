@@ -1,6 +1,6 @@
 # Welcome to My Rice Field of Code! 🌾🙇🏻‍♀️
 
-Hey there! 👋 I’m diving into **Python development** 🐍, fueled by a love for problem-solving and new career adventures.
+Hey there! 👋 I’m diving into **Python development** 🐍, fueled by love for problem-solving and new career adventures.
 
 ### A Bit About Me 🌟
 
