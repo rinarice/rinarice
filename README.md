@@ -1,35 +1,31 @@
 # Welcome to My Rice Field of Code! 🌾🙇🏻‍♀️
 
-Hey there! 👋 I’m diving into **Python development** 🐍, fueled by love for problem-solving and new career adventures.
+Hey there, I'm **Rina**, switched my career to **Python development** 🐍, fueled by love for problem-solving and new adventures.
 
-### A Bit About Me 🌟
+## Tech Stack  ‧₊˚ ⋅ 𓎩 ‧₊˚ ⋅
+**⋆.˚ Languages:** Python
+**⋆.˚ Backend:** Django, DRF, Django ORM  
+**⋆.˚ Principles:** OOP, TDD, SOLID  
+**⋆.˚ Databases:** PostgreSQL, SQLite  
+**⋆.˚ Web:** HTML, CSS, JavaScript  
+**⋆.˚ Tools:** Git, PyCharm, Debugging  
 
-With **7+ years** in team management, LQA, and customer service, here’s a quick look at my experience:
+---
 
-- **Subject Matter Expert & LQA Specialist**  
-  - 📱 Tested and reviewed mobile apps  
-  - 💡 Supported agents to maintain top quality  
-  - 🏫 Trained teams
+## 💼 Experience  
+📱 **LQA & Team Lead** – Led team of content moderators, trained specialists, and ensured high-quality standards in mobile app testing.  
+🎓 **Mate Academy Python Program** – Leveled up backend development skills. [mate.academy/en](https://mate.academy/en)
 
-- **Team Lead**  
-  - 🧑‍🤝‍🧑 Led a content moderation team to success
+---
 
-### My Journey 🧠💪
-
-Currently leveling up as a **Python Developer** at **Mate Academy**:  
-- **Mate Academy**: [mate.academy/en](https://mate.academy/en)
-
-I also have a background in **humanities** and speak **Ukrainian, English, Portuguese, and Russian**, with strong communication and problem-solving skills.
-
-### Tech Tools 🛠️
-
-- **Languages**: Python 3.7+  
-- **Tech**: OOP, TDD, SOLID  
-- **Web Dev**: Django ORM, DRF, HTML, CSS, JavaScript  
-- **Databases**: PostgreSQL, SQLite  
-- **Tools**: Git/GitHub, Debugger  
-- **Bonus**: Microsoft Office, Excel
+## 🌱 More About Me  
+- Fluent in **Ukrainian, English, Portuguese, and Russian**  
+- Strong communicator & fast learner  
+- A rice enthusiast 🍚 (because rice makes everything better!) 
 
 ### Let’s Connect! 🌐✨
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kateryna-klimovskykh)  
+
 
 Excited to share my journey and collaborate on awesome projects! Let’s create something amazing together! 🍚
