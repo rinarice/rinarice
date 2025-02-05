@@ -1,8 +1,8 @@
-# Welcome to My Rice Field of Code! 🌾🙇🏻‍♀️
+## Welcome to my rice field of code! ⚘
 
-Hey there, I'm **Rina**, switched my career to **Python development** 🐍, fueled by love for problem-solving and new adventures.
+Hey there, I'm **Rina**. I switched my career to **Python development**, fueled by my love for problem-solving and new adventures.
 
-## Tech Stack  ‧₊˚ ⋅ 𓎩 ‧₊˚ ⋅
+## ✧˖° Tech Stack ✧˖°
 **⋆.˚ Languages:** Python
 **⋆.˚ Backend:** Django, DRF, Django ORM  
 **⋆.˚ Principles:** OOP, TDD, SOLID  
@@ -10,22 +10,17 @@ Hey there, I'm **Rina**, switched my career to **Python development** 🐍, fuel
 **⋆.˚ Web:** HTML, CSS, JavaScript  
 **⋆.˚ Tools:** Git, PyCharm, Debugging  
 
----
 
-## 💼 Experience  
-📱 **LQA & Team Lead** – Led team of content moderators, trained specialists, and ensured high-quality standards in mobile app testing.  
-🎓 **Mate Academy Python Program** – Leveled up backend development skills. [mate.academy/en](https://mate.academy/en)
+## ✧˖° Experience ✧˖°
+˗ˏˋ ★ ˎˊ˗ **LQA & Team Lead** – Led team of content moderators, trained specialists, and ensured high-quality standards in mobile app testing.  
+˗ˏˋ ★ ˎˊ˗ **Mate Academy Python Program** – Leveled up backend development skills. [mate.academy/en](https://mate.academy/en)
 
----
 
-## 🌱 More About Me  
+## ✧˖° More About Me ✧˖°
 - Fluent in **Ukrainian, English, Portuguese, and Russian**  
 - Strong communicator & fast learner  
-- A rice enthusiast 🍚 (because rice makes everything better!) 
+- A rice enthusiast 𓎩 (because rice makes everything better!) 
 
-### Let’s Connect! 🌐✨
+### Let’s Connect!⤵
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kateryna-klimovskykh)  
-
-
-Excited to share my journey and collaborate on awesome projects! Let’s create something amazing together! 🍚
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/kateryna-klimovskykh)
