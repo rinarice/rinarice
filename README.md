@@ -19,7 +19,7 @@ Hey there, I'm **Rina**. I switched my career to **Python development**, fueled 
 ## ✧˖° More About Me ✧˖°
 - Fluent in **Ukrainian, English, Portuguese, and Russian**  
 - Strong communicator & fast learner  
-- A rice enthusiast 𓎩 (because rice makes everything better!) 
+- A cat lover and rice enthusiast 𓎩 (because these components make everything better!) 
 
 ### Let’s Connect!⤵
 
